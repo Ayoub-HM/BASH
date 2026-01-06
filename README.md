@@ -5,25 +5,28 @@ Ce projet est un outil de supervision en Bash, conçu comme un petit menu intera
 
 Il a été réalisé dans un objectif pédagogique, afin de pratiquer le scripting Bash, la structuration de scripts, et l’interaction avec le système.
 
-**Fonctionnalités
+**Fonctionnalités:
+
 -Menu principal
 -Affichage d’un menu interactif
 -Gestion des entrées utilisateur
 -Validation des choix
 
-**Actions disponibles
+**Actions disponibles:
+
 -Redémarrer le serveur
 -Accéder aux paramètres réseau
 -Afficher les utilisateurs du système
 
-**Diagnostic réseau
+**Diagnostic réseau:
+
 -Affichage de la passerelle par défaut
 -Affichage de l’adresse IP du serveur
 -État des interfaces réseau
 -Test de ping vers la passerelle
 -Test de connectivité Internet
 
-**Utilisation
+**Utilisation:
 
 Rendre les scripts exécutables :
 chmod +x main.sh ip_config.sh users util.sh
@@ -31,7 +34,7 @@ chmod +x main.sh ip_config.sh users util.sh
 Lancer le programme :
 ./main.sh
 
-🎯 Objectif du projet
+🎯 Objectif du projet:
 
 -Comprendre la logique des menus en Bash
 -Manipuler les variables, fonctions et structures de contrôle
