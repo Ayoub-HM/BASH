@@ -30,3 +30,10 @@ chmod +x main.sh ip_config.sh users util.sh
 
 Lancer le programme :
 ./main.sh
+
+🎯 Objectif du projet
+
+-Comprendre la logique des menus en Bash
+-Manipuler les variables, fonctions et structures de contrôle
+-Séparer le code en plusieurs fichiers (modularité)
+-Apprendre à diagnostiquer et tester un script pas à pas
